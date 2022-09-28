@@ -1,1 +1,1 @@
-print("zzzz")
+print("2 + 2 = 4")
